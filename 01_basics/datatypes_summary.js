@@ -9,3 +9,8 @@ let myobj=
 
 console.log(myobj)
 console.log(typeof myobj);
+
+
+
+
+
